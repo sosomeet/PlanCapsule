@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_blue">#FF0079FF</color>
+    <color name="sub_blue1">#FF063DA7</color>
+    <color name="sub_blue2">#FF0057FF</color>
+    <color name="sub_blue3">#FF008DFF</color>
+    <color name="sub_blue4">#FF67BBFF</color>
+    <color name="black1">#FF323232</color>
+    <color name="black2">#FF545454</color>
+    <color name="black3">#FF7F7F7F</color>
+    <color name="icon_color">#FFBFBFBF</color>
+    <color name="dots_unselected">#E8E8E8</color>
+
+</resources>
